@@ -237,14 +237,14 @@ publications:
         conference: Preprint, 2023
 
       - title: Distribution-free Proofs of Proximity.
-        link: [ECCC](https://eccc.weizmann.ac.il/report/2023/118/)
+        link: https://eccc.weizmann.ac.il/report/2023/118/
         authors: with Hugo Aaronson, Tom Gur, Ron Rothblum
         conference: Preprint, 2023
 
-      - title: Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19.
-        link: [ArXiv](https://arxiv.org/abs/2306.17191)
-        authors: Luis Benavides-Vázquez, Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, Ninad Rajgopal, Roberto Tello-Ayala
-        conference: EAAMO 2021
+      # - title: Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19.
+      #   link: [ArXiv](https://arxiv.org/abs/2306.17191)
+      #   authors: Luis Benavides-Vázquez, Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, Ninad Rajgopal, Roberto Tello-Ayala
+      #   conference: EAAMO 2021
 
 # skills:
 #     title: Skills &amp; Proficiency
