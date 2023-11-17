@@ -246,18 +246,18 @@ publications:
           -  name: "ArXiv"
              url: "https://arxiv.org/abs/2308.08874"
 
-      # - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
-      #   #link: 
-      #   authors: "with Luis Benavides-Vázquez, Hector Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, and Roberto Tello-Ayala"
-      #   conference: "EAAMO 2021"
-      #   allLinks:
-      #     -  name: "ArXiv"
-      #        url: "https://arxiv.org/abs/2306.17191"
+      - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
+        #link: 
+        authors: "with Luis Benavides-Vázquez, Hector Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, and Roberto Tello-Ayala"
+        conference: "EAAMO 2021"
+        allLinks:
+          -  name: "ArXiv"
+             url: "https://arxiv.org/abs/2306.17191"
 
       - title: "On the Structure of Learnability Beyond P/Poly".
         #link: 
         authors: "with Rahul Santhanam"
-        conference: "APPROX/RANDOM 2021." "Under Submission to a Journal."
+        conference: "APPROX/RANDOM 2021. Under Submission to a Journal."
         allLinks:
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2021/173/"
@@ -267,7 +267,7 @@ publications:
       - title: "Optimally Deceiving a Learning Leader in Stackelberg Games."
         #link: 
         authors: "with Georgios Birmpas, Jiarui Gan, Alexandros Hollender, Francisco J. Marmolejo-Cossio, and Alexandros A. Voudouris"
-        conference: "Neurips 2020". "Journal of Artificial Intelligence Research (JAIR) 2021".
+        conference: "Neurips 2020. Journal of Artificial Intelligence Research (JAIR) 2021".
         allLinks:
           -  name: "ArXiv"
              url: "https://arxiv.org/pdf/2006.06566.pdf"
@@ -275,7 +275,7 @@ publications:
       - title: "Beyond Natural Proofs: Hardness Magnification and Locality".
         #link: 
         authors: "with Lijie Chen, Shuichi Hirahara, Igor Carboni Oliveira, Ján Pich, and Rahul Santhanam"
-        conference: "ITCS 2020." "Journal of the ACM (JACM) 2022."
+        conference: "ITCS 2020. Journal of the ACM (JACM) 2022."
         allLinks:
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2019/168/"
