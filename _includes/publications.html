@@ -23,7 +23,15 @@
     {% else %}
       <li>{{ publication.title }}</li>
     {% endif %}
-    <div class="allLinks">{{ publication.allLinks }}</div>
+    <div class="allLinks">
+      {% if publication.allLinks %}
+        <ul>
+          {% for link in publication.allLinks %}
+            <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
