@@ -58,7 +58,7 @@ sidebar:
 
 career-profile:
     title: About
-    description: |
+    summary: |
         Hi everyone! I am a post-doctoral researcher in the [Algorithms and Complexity] (https://www.cst.cam.ac.uk/research/themes/algorithms-and-complexity) 
         at the University of Cambridge, where I am fortunate to be hosted by [Tom Gur](https://www.cst.cam.ac.uk/people/tg508). I also am a visiting researcher
         in the [Theory and Foundations](https://warwick.ac.uk/fac/sci/dcs/research/focs/) group and the [Centre for Discrete Mathematics and its Applications]
