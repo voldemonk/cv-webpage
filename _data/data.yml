@@ -231,10 +231,10 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: On the Power of Interaction for Learning.
+      - title: "On the Power of Interaction for Learning."
         #link: "#"
-        authors: with Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, Bahar Salamatian, Igor Shinkar
-        conference: Preprint, 2023
+        authors: "with Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, Bahar Salamatian, Igor Shinkar"
+        conference: "Preprint, 2023"
 
       - title: "Distribution-free Proofs of Proximity."
         # link: "#"
@@ -246,15 +246,15 @@ publications:
           -  name: "ArXiv"
              url: "https://arxiv.org/abs/2308.08874"
 
-      - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
-        #link: 
-        authors: "with Luis Benavides-Vázquez, Hector Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, and Roberto Tello-Ayala"
-        conference: "EAAMO 2021"
-        allLinks:
-          -  name: "ArXiv"
-             url: "https://arxiv.org/abs/2306.17191"
+      # - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
+      #   #link: 
+      #   authors: "with Luis Benavides-Vázquez, Hector Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, and Roberto Tello-Ayala"
+      #   conference: "EAAMO 2021"
+      #   allLinks:
+      #     -  name: "ArXiv"
+      #        url: "https://arxiv.org/abs/2306.17191"
 
-      - title: "On the Structure of Learnability Beyond PPoly".
+      - title: "On the Structure of Learnability Beyond P/Poly".
         #link: 
         authors: "with Rahul Santhanam"
         conference: "APPROX/RANDOM 2021." "Under Submission to a Journal."
