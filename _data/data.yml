@@ -237,7 +237,8 @@ publications:
         conference: Preprint, 2023
 
       - title: Distribution-free Proofs of Proximity.
-        link: https://eccc.weizmann.ac.il/report/2023/118/
+        link: "#"
+        allLinks: [ECCC](https://eccc.weizmann.ac.il/report/2023/118/)
         authors: with Hugo Aaronson, Tom Gur, Ron Rothblum
         conference: Preprint, 2023
 
