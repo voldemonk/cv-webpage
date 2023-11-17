@@ -67,9 +67,9 @@ career-profile:
         in the [Theory and Foundations](https://warwick.ac.uk/fac/sci/dcs/research/focs/) group and the 
         [Centre for Discrete Mathematics and its Applications (DIMAP)](https://warwick.ac.uk/fac/cross_fac/dimap/) at the University of Warwick, where I was a post-doctoral researcher previously. 
         
-        I did my D.Phil in the [Algorithms and Complexity Theory](https://www.cs.ox.ac.uk/research/algorithms/) group in the University of Oxford, advised by 
+        I did my D.Phil at the [Algorithms and Complexity Theory](https://www.cs.ox.ac.uk/research/algorithms/) group in the University of Oxford, advised by 
         [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/). Before this, I did my Master's degree at the 
-        [Computer Science and Automation](https://www.csa.iisc.ac.in/) department in the Indian Institute of Science, Bangalore and my undergraduate degree was at the 
+        [Computer Science and Automation](https://www.csa.iisc.ac.in/) department in the Indian Institute of Science, Bengaluru, and my undergraduate degree was at the 
         [Computer Science](https://sjce.ac.in/dept/cs/) department in Sri Jayachamarajendra College of Engineering (SJCE), Mysuru.
 
         My research interests are mainly in Computational Complexity Theory. In particular, I am currently interested in <b>computational 
@@ -225,26 +225,26 @@ career-profile:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Publications and Preprints
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: On the Power of Interaction for Learning.
+        #link: "#"
+        authors: with Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, Bahar Salamatian, Igor Shinkar
+        conference: Preprint, 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Distribution-free Proofs of Proximity.
+        link: [ECCC](https://eccc.weizmann.ac.il/report/2023/118/)
+        authors: with Hugo Aaronson, Tom Gur, Ron Rothblum
+        conference: Preprint, 2023
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19.
+        link: [ArXiv](https://arxiv.org/abs/2306.17191)
+        authors: Luis Benavides-Vázquez, Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, Ninad Rajgopal, Roberto Tello-Ayala
+        conference: EAAMO 2021
 
 # skills:
 #     title: Skills &amp; Proficiency
