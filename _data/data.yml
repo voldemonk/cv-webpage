@@ -254,7 +254,7 @@ publications:
           -  name: "ArXiv"
              url: "https://arxiv.org/abs/2306.17191"
 
-      - title: "On the Structure of Learnability Beyond P/Poly".
+      - title: "On the Structure of Learnability Beyond PPoly".
         #link: 
         authors: "with Rahul Santhanam"
         conference: "APPROX/RANDOM 2021." "Under Submission to a Journal."
