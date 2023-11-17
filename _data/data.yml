@@ -13,7 +13,7 @@ sidebar:
     avatar: Ninad_Rajgopal_passport.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email:
+    email: |
     - 'ninad (dot) rajgopal (at) gmail (dot) com'
     - 'nr549 (at) cam (dot) ac (dot) uk'
     - 'ninad (dot) rajgopal (at) warwick (dot) ac (dot) uk'
