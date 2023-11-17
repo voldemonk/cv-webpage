@@ -254,15 +254,15 @@ publications:
           -  name: "ArXiv"
              url: "https://arxiv.org/abs/2306.17191"
 
-      - title: "On the Structure of Learnability Beyond P/Poly".
-        #link: 
-        authors: "with Rahul Santhanam"
-        conference: "APPROX/RANDOM 2021. Under Submission to a Journal."
-        allLinks:
-          -  name: "ECCC"
-             url: "https://eccc.weizmann.ac.il/report/2021/173/"
-          -  name: "Talk"
-             url: "https://www.youtube.com/watch?v=0O5dnngJ4SA&t=2s&ab_channel=APPROXRANDOM2021"
+      # - title: "On the Structure of Learnability Beyond P/Poly".
+      #   #link: 
+      #   authors: "with Rahul Santhanam"
+      #   conference: "APPROX/RANDOM 2021. Under Submission to a Journal."
+      #   allLinks:
+      #     -  name: "ECCC"
+      #        url: "https://eccc.weizmann.ac.il/report/2021/173/"
+      #     -  name: "Talk"
+      #        url: "https://www.youtube.com/watch?v=0O5dnngJ4SA&t=2s&ab_channel=APPROXRANDOM2021"
 
       - title: "Optimally Deceiving a Learning Leader in Stackelberg Games."
         #link: 
