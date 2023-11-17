@@ -236,11 +236,13 @@ publications:
         authors: with Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, Bahar Salamatian, Igor Shinkar
         conference: Preprint, 2023
 
-      - title: Distribution-free Proofs of Proximity.
+      - title: "Distribution-free Proofs of Proximity."
         link: "#"
-        allLinks: [ECCC](https://eccc.weizmann.ac.il/report/2023/118/)
-        authors: with Hugo Aaronson, Tom Gur, Ron Rothblum
-        conference: Preprint, 2023
+        allLinks: 
+          -  name: "ECCC"
+             url: "https://eccc.weizmann.ac.il/report/2023/118/"
+        authors: "with Hugo Aaronson, Tom Gur, Ron Rothblum"
+        conference: "Preprint, 2023"
 
       # - title: Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19.
       #   link: [ArXiv](https://arxiv.org/abs/2306.17191)
