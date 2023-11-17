@@ -59,19 +59,19 @@ sidebar:
 career-profile:
     title: About
     summary: |
-    Hi everyone! I am a post-doctoral researcher in the [Algorithms and Complexity] (https://www.cst.cam.ac.uk/research/themes/algorithms-and-complexity) 
-    at the University of Cambridge, where I am fortunate to be hosted by [Tom Gur](https://www.cst.cam.ac.uk/people/tg508). I also am a visiting researcher
-    in the [Theory and Foundations](https://warwick.ac.uk/fac/sci/dcs/research/focs/) group and the [Centre for Discrete Mathematics and its Applications]
-    (https://warwick.ac.uk/fac/cross_fac/dimap/) at the University of Warwick, where I was a post-doctoral researcher previously. I did my D.Phil in the 
-    [Algorithms and Complexity Theory](https://www.cs.ox.ac.uk/research/algorithms/) group in the University of Oxford, advised by [Rahul Santhanam]
-    (https://www.cs.ox.ac.uk/people/rahul.santhanam/). Before this, I did my Master's degree at the [Computer Science and Automation]
-    (https://www.csa.iisc.ac.in/) department in the Indian Institute of Science, Bangalore and my undergraduate degree was at the [Computer Science]
-    (https://sjce.ac.in/dept/cs/) department in Sri Jayachamarajendra College of Engineering (SJCE), Mysuru.
+    # Hi everyone! I am a post-doctoral researcher in the [Algorithms and Complexity] (https://www.cst.cam.ac.uk/research/themes/algorithms-and-complexity) 
+    # at the University of Cambridge, where I am fortunate to be hosted by [Tom Gur](https://www.cst.cam.ac.uk/people/tg508). I also am a visiting researcher
+    # in the [Theory and Foundations](https://warwick.ac.uk/fac/sci/dcs/research/focs/) group and the [Centre for Discrete Mathematics and its Applications]
+    # (https://warwick.ac.uk/fac/cross_fac/dimap/) at the University of Warwick, where I was a post-doctoral researcher previously. I did my D.Phil in the 
+    # [Algorithms and Complexity Theory](https://www.cs.ox.ac.uk/research/algorithms/) group in the University of Oxford, advised by [Rahul Santhanam]
+    # (https://www.cs.ox.ac.uk/people/rahul.santhanam/). Before this, I did my Master's degree at the [Computer Science and Automation]
+    # (https://www.csa.iisc.ac.in/) department in the Indian Institute of Science, Bangalore and my undergraduate degree was at the [Computer Science]
+    # (https://sjce.ac.in/dept/cs/) department in Sri Jayachamarajendra College of Engineering (SJCE), Mysuru.
 
-    My research interests are mainly in Computational Complexity Theory. Withing this, I am currently working on problems in areas spanning <b>computational 
-    learning theory, interactive proof systems, circuit complexity, meta-complexity </b>, and <b> combinatorics </b>.
+    # My research interests are mainly in Computational Complexity Theory. Withing this, I am currently working on problems in areas spanning <b>computational 
+    # learning theory, interactive proof systems, circuit complexity, meta-complexity </b>, and <b> combinatorics </b>.
 
-    You can find my DBLP page [here](https://dblp.org/pid/129/9004.html) and my CV [here]().
+    # You can find my DBLP page [here](https://dblp.org/pid/129/9004.html) and my CV [here]().
 # education:
 #     title: Education
 #     info:
