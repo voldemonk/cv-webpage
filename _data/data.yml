@@ -205,22 +205,6 @@ career-profile:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: Thesis
-    #intro: >
-    contributions:
-      - title: "The Complexity of Meta-Computational Problems."
-        link: "https://ora.ox.ac.uk/objects/uuid:f2fe5da6-1b6d-4147-88b5-85e9d818a559"
-        tagline: "Rahul Santhanam"
-
-      - title: "Hitting and Piercing Geometric Objects Induced by a Point Set."
-        link: "https://etd.iisc.ac.in/static/etd/abstracts/3721/G26302-Abs.pdf"
-        tagline: "Sathish Govindarajan"
-
-      # - title: Delta
-      #   link: "#"
-      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications and Preprints
     # intro: |
@@ -318,7 +302,22 @@ publications:
           -  name: "Paper"
              url: "https://link.springer.com/chapter/10.1007/978-3-642-38768-5_21" 
 
-             
+
+oss:
+    title: Thesis
+    #intro: >
+    contributions:
+      - title: "The Complexity of Meta-Computational Problems."
+        link: "https://ora.ox.ac.uk/objects/uuid:f2fe5da6-1b6d-4147-88b5-85e9d818a559"
+        tagline: "Rahul Santhanam"
+
+      - title: "Hitting and Piercing Geometric Objects Induced by a Point Set."
+        link: "https://etd.iisc.ac.in/static/etd/abstracts/3721/G26302-Abs.pdf"
+        tagline: "Sathish Govindarajan"
+
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"             
 
              
           
