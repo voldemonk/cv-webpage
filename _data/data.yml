@@ -309,11 +309,11 @@ oss:
     contributions:
       - title: "Phd thesis: The Complexity of Meta-Computational Problems."
         link: "https://ora.ox.ac.uk/objects/uuid:f2fe5da6-1b6d-4147-88b5-85e9d818a559"
-        tagline: "Rahul Santhanam"
+        # tagline: "Rahul Santhanam"
 
-      - title: "<.Sc thesis: Hitting and Piercing Geometric Objects Induced by a Point Set."
+      - title: "m.Sc thesis: Hitting and Piercing Geometric Objects Induced by a Point Set."
         link: "https://etd.iisc.ac.in/static/etd/abstracts/3721/G26302-Abs.pdf"
-        tagline: "Sathish Govindarajan"
+        # tagline: "Sathish Govindarajan"
 
       # - title: Delta
       #   link: "#"
