@@ -261,7 +261,7 @@ publications:
         allLinks:
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2021/173/"
-          -  name: "Talk"
+          -  name: "Talk at RANDOM"
              url: "https://www.youtube.com/watch?v=0O5dnngJ4SA&t=2s&ab_channel=APPROXRANDOM2021"
 
       - title: "Optimally Deceiving a Learning Leader in Stackelberg Games."
@@ -279,14 +279,49 @@ publications:
         allLinks:
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2019/168/"
-          -  name: "Talk"
+          -  name: "Talk at ITCS"
              url: "https://www.youtube.com/watch?v=l4RyFVgoItc&t=2233s&ab_channel=PaulG.AllenSchool"
           -  name: "Igor's note"
              url: "https://www.dcs.warwick.ac.uk/~igorcarb/documents/papers/magnification-note.pdf"
           -  name: "Igor's STOC talk"
              url: "https://www.youtube.com/watch?v=ml5M72mZbq0&t=7200s&ab_channel=AssociationforComputingMachinery%28ACM%29"
+
+      - title: "Deterministically Counting Satisfying Assignments for Constant-Depth Circuits with Parity Gates, with Implications for Lower Bounds."
+        #link: 
+        authors: "with Rahul Santhanam, and Srikanth Srinivasan"
+        conference: "MFCS 2018."
+        allLinks:
+          -  name: "Paper"
+             url: "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2018.78"
+
+      - title: "Improved Learning of k-Parities."
+        #link: 
+        authors: "with Arnab Bhattacharyya, and Ameet Gadekar"
+        conference: "Theoretical Computer Science (special edition), 2020. <br /> COCOON 2018."
+        allLinks:
+          -  name: "ArXiv"
+             url: "https://arxiv.org/abs/1502.05375"
+
+      - title: "Selection lemmas for various geometric objects."
+        #link: 
+        authors: "with Pradeesha Ashok, and Sathish Govindarajan"
+        conference: "International Journal of Computational Geometry & Applications, 2016."
+        allLinks:
+          -  name: "ArXiv"
+             url: "https://arxiv.org/pdf/1401.0443.pdf"
+
+      - title: "Hitting and Piercing Rectangles Induced by a Point Set."
+        #link: 
+        authors: "with Pradeesha Ashok, Sathish Govindarajan, Abhijit Khopkar, and Neeldhara Misra"
+        conference: "COCOON 2013."
+        allLinks:
+          -  name: "Paper"
+             url: "https://link.springer.com/chapter/10.1007/978-3-642-38768-5_21" 
+
              
 
+             
+          
 # skills:
 #     title: Skills &amp; Proficiency
 
