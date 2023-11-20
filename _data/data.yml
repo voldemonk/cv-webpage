@@ -319,18 +319,18 @@ oss:
       #   link: "#"
       #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"             
 
-skills:
-    title: Teaching
+# skills:
+#     title: Teaching
 
-    toolset:
-      - name: "Worcester college, university of Oxford (tutor for visiting students)."
-        level: "Design and Analysis of Algorithms, Models of Computation, Discrete Mathematics, Graph Theory, and Extremal Combinatorics."
+#     toolset:
+#       - name: "Worcester college, university of Oxford (tutor for visiting students)."
+#         level: "Design and Analysis of Algorithms, Models of Computation, Discrete Mathematics, Graph Theory, and Extremal Combinatorics."
 
-      - name: "Department of computer science, university of Oxford (class tutor)."
-        level: "Computational Learning Theory (2017) and Foundations of Computer Science (2020)."
+#       - name: "Department of computer science, university of Oxford (class tutor)."
+#         level: "Computational Learning Theory (2017) and Foundations of Computer Science (2020)."
 
-      - name: "Indian Institute of Science, Bangalore (teaching assistant)."
-        level: "Design and Analysis of Algorithms (2012)"
+#       - name: "Indian Institute of Science, Bangalore (teaching assistant)."
+#         level: "Design and Analysis of Algorithms (2012)"
 
       # - name: HTML5 & CSS
       #   level: 95%
