@@ -267,7 +267,7 @@ publications:
       - title: "Optimally Deceiving a Learning Leader in Stackelberg Games."
         #link: 
         authors: "with Georgios Birmpas, Jiarui Gan, Alexandros Hollender, Francisco J. Marmolejo-Cossio, and Alexandros A. Voudouris"
-        conference: "Neurips 2020. Journal of Artificial Intelligence Research (JAIR) 2021."
+        conference: "Neurips 2020. <br /> Journal of Artificial Intelligence Research (JAIR) 2021."
         allLinks:
           -  name: "ArXiv"
              url: "https://arxiv.org/pdf/2006.06566.pdf"
