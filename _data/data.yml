@@ -257,7 +257,7 @@ publications:
       - title: "On the Structure of Learnability Beyond P/Poly."
         #link: 
         authors: "with Rahul Santhanam"
-        conference: "APPROX/RANDOM 2021. Under Submission to a Journal."
+        conference: "APPROX/RANDOM 2021. <br /> Under Submission to a Journal."
         allLinks:
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2021/173/"
@@ -267,24 +267,24 @@ publications:
       - title: "Optimally Deceiving a Learning Leader in Stackelberg Games."
         #link: 
         authors: "with Georgios Birmpas, Jiarui Gan, Alexandros Hollender, Francisco J. Marmolejo-Cossio, and Alexandros A. Voudouris"
-        conference: "Neurips 2020. <br /> Journal of Artificial Intelligence Research (JAIR) 2021."
+        conference: "Journal of Artificial Intelligence Research (JAIR) 2021. <br /> Neurips 2020."
         allLinks:
           -  name: "ArXiv"
              url: "https://arxiv.org/pdf/2006.06566.pdf"
 
-      # - title: "Beyond Natural Proofs: Hardness Magnification and Locality."
-      #   #link: 
-      #   authors: "with Lijie Chen, Shuichi Hirahara, Igor Carboni Oliveira, Ján Pich, and Rahul Santhanam"
-      #   conference: "ITCS 2020. Journal of the ACM (JACM) 2022."
-      #   allLinks:
-      #     -  name: "ECCC"
-      #        url: "https://eccc.weizmann.ac.il/report/2019/168/"
-      #     -  name: "Talk"
-      #        url: "https://www.youtube.com/watch?v=l4RyFVgoItc&t=2233s&ab_channel=PaulG.AllenSchool"
-      #     -  name: "Igor's note"
-      #        url: "https://www.dcs.warwick.ac.uk/~igorcarb/documents/papers/magnification-note.pdf"
-      #     -  name: "Igor's STOC talk"
-      #        url: "https://www.youtube.com/watch?v=ml5M72mZbq0&t=7200s&ab_channel=AssociationforComputingMachinery%28ACM%29"
+      - title: "Beyond Natural Proofs: Hardness Magnification and Locality."
+        #link: 
+        authors: "with Lijie Chen, Shuichi Hirahara, Igor Carboni Oliveira, Ján Pich, and Rahul Santhanam"
+        conference: "Journal of the ACM (J.ACM) 2022. <br /> ITCS 2020."
+        allLinks:
+          -  name: "ECCC"
+             url: "https://eccc.weizmann.ac.il/report/2019/168/"
+          -  name: "Talk"
+             url: "https://www.youtube.com/watch?v=l4RyFVgoItc&t=2233s&ab_channel=PaulG.AllenSchool"
+          -  name: "Igor's note"
+             url: "https://www.dcs.warwick.ac.uk/~igorcarb/documents/papers/magnification-note.pdf"
+          -  name: "Igor's STOC talk"
+             url: "https://www.youtube.com/watch?v=ml5M72mZbq0&t=7200s&ab_channel=AssociationforComputingMachinery%28ACM%29"
              
 
 # skills:
