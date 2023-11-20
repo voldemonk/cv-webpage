@@ -205,24 +205,21 @@ career-profile:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+oss:
+    title: Thesis
+    #intro: >
+    contributions:
+      - title: "The Complexity of Meta-Computational Problems."
+        link: "https://ora.ox.ac.uk/objects/uuid:f2fe5da6-1b6d-4147-88b5-85e9d818a559"
+        tagline: "Rahul Santhanam"
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: "Hitting and Piercing Geometric Objects Induced by a Point Set."
+        link: "https://etd.iisc.ac.in/static/etd/abstracts/3721/G26302-Abs.pdf"
+        tagline: "Sathish Govindarajan"
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications and Preprints
@@ -253,6 +250,9 @@ publications:
         allLinks:
           -  name: "ArXiv"
              url: "https://arxiv.org/abs/2306.17191"
+          -  name: "Francisco's talk"
+             url: "https://www.youtube.com/watch?v=-J7HBiS8R9U&t=51s&ab_channel=MD4SGOrganizers"
+             
 
       - title: "On the Structure of Learnability Beyond P/Poly."
         #link: 
