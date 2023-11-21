@@ -16,7 +16,7 @@
   <!--//intro-->
   {% endif %}
 
-  {% for contribution in oss.contributions %}
+<!--   {% for contribution in oss.contributions %}
   <div class="item">
 
     <span class="project-title">
@@ -32,8 +32,26 @@
     {% endif %}
 
   </div>
+  {% endfor %} -->
   <!--//item-->
+
+  <ul>
+  {% for contribution in oss.contributions %}
+    <li class="item">
+      <span class="project-title">
+        {% if contribution.link %}
+          <a href="{{ contribution.link }}" target="_blank">{{ contribution.title }}</a>
+        {% else %}
+          {{ contribution.title }}
+        {% endif %}
+      </span>
+
+      {% if contribution.tagline %}
+        - <span class="project-tagline">{{ contribution.tagline }}</span>
+      {% endif %}
+    </li>
   {% endfor %}
+</ul>
 
 </section>
 <!--//section-->
