@@ -307,13 +307,13 @@ oss:
     title: Thesis
     #intro: >
     contributions:
-      - title: "The Complexity of Meta-Computational Problems."
+      - title: "The Complexity of Meta-Computational Problems"
         link: "https://ora.ox.ac.uk/objects/uuid:f2fe5da6-1b6d-4147-88b5-85e9d818a559"
-        tagline: "PhD Thesis."
+        tagline: "D.Phil Thesis."
 
-      - title: "M.Sc thesis: Hitting and Piercing Geometric Objects Induced by a Point Set."
+      - title: "Hitting and Piercing Geometric Objects Induced by a Point Set"
         link: "https://etd.iisc.ac.in/static/etd/abstracts/3721/G26302-Abs.pdf"
-        # tagline: "Sathish Govindarajan"
+        tagline: "M.Sc Thesis."
 
       # - title: Delta
       #   link: "#"
