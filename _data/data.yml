@@ -212,7 +212,7 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: "On the Power of Interaction for Learning."
+      - title: "On the Power of Interactive Proofs for Learning."
         #link: "#"
         authors: "Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, <b>Ninad Rajgopal</b>, Bahar Salamatian, Igor Shinkar"
         conference: "Preprint, 2023"
