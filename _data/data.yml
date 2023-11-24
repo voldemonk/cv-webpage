@@ -224,8 +224,6 @@ publications:
         allLinks: 
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2023/118/"
-          -  name: "ArXiv"
-             url: "https://arxiv.org/abs/2308.08874"
 
       - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
         #link: 
