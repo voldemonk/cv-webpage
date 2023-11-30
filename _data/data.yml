@@ -232,7 +232,7 @@ publications:
         allLinks:
           -  name: "ArXiv"
              url: "https://arxiv.org/abs/2306.17191"
-          -  name: "Francisco's talk"
+          -  name: "Francisco's EAAMO talk"
              url: "https://www.youtube.com/watch?v=-J7HBiS8R9U&t=51s&ab_channel=MD4SGOrganizers"
              
 
@@ -265,7 +265,7 @@ publications:
              url: "https://www.youtube.com/watch?v=l4RyFVgoItc&t=2233s&ab_channel=PaulG.AllenSchool"
           -  name: "Igor's note"
              url: "https://www.dcs.warwick.ac.uk/~igorcarb/documents/papers/magnification-note.pdf"
-          -  name: "Igor's talk"
+          -  name: "Igor's STOC workshop talk"
              url: "https://www.youtube.com/watch?v=ml5M72mZbq0&t=7200s&ab_channel=AssociationforComputingMachinery%28ACM%29"
 
       - title: "Deterministically Counting Satisfying Assignments for Constant-Depth Circuits with Parity Gates, with Implications for Lower Bounds."
