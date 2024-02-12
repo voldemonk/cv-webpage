@@ -213,11 +213,6 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: "On the Power of Interactive Proofs for Learning."
-        #link: "#"
-        authors: "Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, <b>Ninad Rajgopal</b>, Bahar Salamatian, Igor Shinkar"
-        conference: "Preprint, 2023"
-
       - title: "Distribution-free Proofs of Proximity."
         # link: "#"
         authors: "Hugo Aaronson, Tom Gur, <b>Ninad Rajgopal</b>, and Ron Rothblum"
@@ -225,7 +220,12 @@ publications:
         allLinks: 
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2023/118/"
-
+      
+      - title: "On the Power of Interactive Proofs for Learning."
+        #link: "#"
+        authors: "Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, <b>Ninad Rajgopal</b>, Bahar Salamatian, Igor Shinkar"
+        conference: "STOC 2024"
+      
       - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
         #link: 
         authors: "with Luis Benavides-Vázquez, Hector Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, <b>Ninad Rajgopal</b>, and Roberto Tello-Ayala"
