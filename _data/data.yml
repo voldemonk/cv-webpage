@@ -216,7 +216,7 @@ publications:
       - title: "Distribution-free Proofs of Proximity."
         # link: "#"
         authors: "Hugo Aaronson, Tom Gur, <b>Ninad Rajgopal</b>, and Ron Rothblum"
-        conference: "Preprint, 2023"
+        conference: "CCC 2024"
         allLinks: 
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2023/118/"
@@ -225,6 +225,15 @@ publications:
         #link: "#"
         authors: "Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, <b>Ninad Rajgopal</b>, Bahar Salamatian, Igor Shinkar"
         conference: "STOC 2024"
+        allLinks: 
+          -  name: "ArXiv"
+             url: "https://arxiv.org/abs/2404.08158"
+          -  name: "Mohammad's STOC presentation"
+             url: "https://youtu.be/HZnRdbATxSc?si=8l56X6W9wPPrXhQ"  
+          -  name: "MIAO Seminar"
+             url: "https://www.youtube.com/watch?v=eOjPqtOg2vw"
+          -  name: "TOC Seminar - Lisbon (3 hours)"
+             url: "https://youtu.be/ydpcPfmEJws?si=ubIn_dD8Ambln1rJ"
       
       - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
         #link: 
@@ -236,7 +245,6 @@ publications:
           -  name: "Francisco's EAAMO talk"
              url: "https://www.youtube.com/watch?v=-J7HBiS8R9U&t=51s&ab_channel=MD4SGOrganizers"
              
-
       - title: "On the Structure of Learnability Beyond P/Poly."
         #link: 
         authors: "<b>Ninad Rajgopal</b> and Rahul Santhanam"
