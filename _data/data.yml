@@ -239,7 +239,7 @@ publications:
       
       - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
         #link: 
-        authors: "with Luis Benavides-Vázquez, Hector Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, <b>Ninad Rajgopal</b>, and Roberto Tello-Ayala"
+        authors: "with [Luis Benavides-Vázquez](https://scholar.google.com/citations?user=Xg07tEIAAAAJ&hl=en&oi=sra), [Hector Alonso Guzmán-Gutiérrez](https://scholar.google.com/citations?hl=en&user=GhekzbYAAAAJ), [Jakob Jonnerby](https://scholar.google.com/citations?user=Xg07tEIAAAAJ&hl=en&oi=sra), [Philip Lazos](https://scholar.google.at/citations?user=3XJbROkAAAAJ&hl=en), [Edwin Lock](https://www.edwinlock.com/), [Francisco J.Marmolejo-Cossío](https://www.fmarmolejo.com/), <b>Ninad Rajgopal</b>, and [Roberto Tello-Ayala](https://robtelloayala.github.io/)"
         conference: "EAAMO 2021"
         allLinks:
           -  name: "ArXiv"
@@ -249,7 +249,7 @@ publications:
              
       - title: "On the Structure of Learnability Beyond P/Poly."
         #link: 
-        authors: "<b>Ninad Rajgopal</b> and Rahul Santhanam"
+        authors: "<b>Ninad Rajgopal</b> and [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/)"
         conference: "APPROX/RANDOM 2021. <br /> Under Submission to a Journal."
         allLinks:
           -  name: "ECCC"
@@ -259,7 +259,7 @@ publications:
 
       - title: "Optimally Deceiving a Learning Leader in Stackelberg Games."
         #link: 
-        authors: "Georgios Birmpas, Jiarui Gan, Alexandros Hollender, Francisco J. Marmolejo-Cossio, <b>Ninad Rajgopal</b>, and Alexandros A. Voudouris"
+        authors: "[Georgios Birmpas](https://sites.google.com/site/gebirbas/), [Jiarui Gan](https://jgan.xyz/), [Alexandros Hollender](https://www.asc.ox.ac.uk/person/dr-alexandros-hollender-0), [Francisco J.Marmolejo-Cossío](https://www.fmarmolejo.com/), <b>Ninad Rajgopal</b>, and [Alexandros A. Voudouris](https://www.alexvoudouris.com/)"
         conference: "Journal of Artificial Intelligence Research (JAIR) 2021. <br /> Neurips 2020."
         allLinks:
           -  name: "ArXiv"
@@ -267,7 +267,7 @@ publications:
 
       - title: "Beyond Natural Proofs: Hardness Magnification and Locality."
         #link: 
-        authors: "Lijie Chen, Shuichi Hirahara, Igor Carboni Oliveira, Ján Pich, <b>Ninad Rajgopal</b>, and Rahul Santhanam"
+        authors: "[Lijie Chen](https://chen-lijie.github.io/), [Shuichi Hirahara](https://researchmap.jp/shuichi.hirahara/?lang=english), [Igor Carboni Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/), [Ján Pich](https://users.ox.ac.uk/~coml0742/), <b>Ninad Rajgopal</b>, and [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/)"
         conference: "Journal of the ACM (J.ACM) 2022. <br /> ITCS 2020."
         allLinks:
           -  name: "ECCC"
@@ -281,7 +281,7 @@ publications:
 
       - title: "Deterministically Counting Satisfying Assignments for Constant-Depth Circuits with Parity Gates, with Implications for Lower Bounds."
         #link: 
-        authors: "<b>Ninad Rajgopal</b>, Rahul Santhanam, and Srikanth Srinivasan"
+        authors: "<b>Ninad Rajgopal</b>, [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/), and [Srikanth Srinivasan](https://cs.au.dk/~srikanth/)"
         conference: "MFCS 2018."
         allLinks:
           -  name: "Paper"
@@ -289,7 +289,7 @@ publications:
 
       - title: "Improved Learning of k-Parities."
         #link: 
-        authors: "Arnab Bhattacharyya, Ameet Gadekar, and <b>Ninad Rajgopal</b>"
+        authors: "[Arnab Bhattacharyya](https://www.comp.nus.edu.sg/~arnab/), [Ameet Gadekar](https://amitgadekar.in/), and <b>Ninad Rajgopal</b>"
         conference: "Theoretical Computer Science (special edition), 2020. <br /> COCOON 2018."
         allLinks:
           -  name: "ArXiv"
@@ -297,7 +297,7 @@ publications:
 
       - title: "Selection lemmas for various geometric objects."
         #link: 
-        authors: "Pradeesha Ashok, Sathish Govindarajan, and <b>Ninad Rajgopal</b>"
+        authors: "[Pradeesha Ashok](https://www.iiitb.ac.in/faculty/pradeesha-ashok), [Sathish Govindarajan](https://www.csa.iisc.ac.in/~gsat/), and <b>Ninad Rajgopal</b>"
         conference: "International Journal of Computational Geometry & Applications, 2016."
         allLinks:
           -  name: "ArXiv"
@@ -305,7 +305,7 @@ publications:
 
       - title: "Hitting and Piercing Rectangles Induced by a Point Set."
         #link: 
-        authors: "<b>Ninad Rajgopal</b>, Pradeesha Ashok, Sathish Govindarajan, Abhijit Khopkar, and Neeldhara Misra"
+        authors: "<b>Ninad Rajgopal</b>, [Pradeesha Ashok](https://www.iiitb.ac.in/faculty/pradeesha-ashok), [Sathish Govindarajan](https://www.csa.iisc.ac.in/~gsat/), [Abhijit Khopkar](https://dblp.org/pid/85/10360.html), and [Neeldhara Misra](http://people.iitgn.ac.in/~neeldhara/)"
         conference: "COCOON 2013."
         allLinks:
           -  name: "Paper"
