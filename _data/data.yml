@@ -217,7 +217,7 @@ publications:
     papers:
       - title: "Distribution-free Proofs of Proximity."
         # link: "#"
-        authors: "Hugo Aaronson, Tom Gur, <b>Ninad Rajgopal</b>, and Ron Rothblum"
+        authors: "[Hugo Aaronson](https://www.cst.cam.ac.uk/people/ha406), [Tom Gur](https://www.cst.cam.ac.uk/people/tg508), <b>Ninad Rajgopal</b>, and [Ron Rothblum](www.cs.technion.ac.il/~rothblum/)"
         conference: "CCC 2024"
         allLinks: 
           -  name: "ECCC"
@@ -225,7 +225,7 @@ publications:
       
       - title: "On the Power of Interactive Proofs for Learning."
         #link: "#"
-        authors: "Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, <b>Ninad Rajgopal</b>, Bahar Salamatian, Igor Shinkar"
+        authors: "[Tom Gur](https://www.cst.cam.ac.uk/people/tg508), [Mohammad Mahdi Jahanara](https://scholar.google.com/citations?user=C1znsjYAAAAJ&hl=en&oi=sra), [Mohammad Mahdi Khodabandeh](https://mohmahkho.github.io/), <b>Ninad Rajgopal</b>, [Bahar Salamatian](https://scholar.google.co.uk/citations?user=euRtDasAAAAJ&hl=en), [Igor Shinkar](https://www.cs.sfu.ca/~ishinkar/index.html)"
         conference: "STOC 2024"
         allLinks: 
           -  name: "ArXiv"
