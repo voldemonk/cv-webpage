@@ -217,7 +217,7 @@ publications:
     papers:
       - title: "Distribution-free Proofs of Proximity."
         # link: "#"
-        authors: "[Hugo Aaronson](https://www.cst.cam.ac.uk/people/ha406), [Tom Gur](https://www.cst.cam.ac.uk/people/tg508), <b>Ninad Rajgopal</b>, and [Ron Rothblum](www.cs.technion.ac.il/~rothblum/)"
+        authors: "Hugo Aaronson, Tom Gur, <b>Ninad Rajgopal</b>, and Ron Rothblum"
         conference: "CCC 2024"
         allLinks: 
           -  name: "ECCC"
@@ -225,7 +225,7 @@ publications:
       
       - title: "On the Power of Interactive Proofs for Learning."
         #link: "#"
-        authors: "[Tom Gur](https://www.cst.cam.ac.uk/people/tg508), [Mohammad Mahdi Jahanara](https://scholar.google.com/citations?user=C1znsjYAAAAJ&hl=en&oi=sra), [Mohammad Mahdi Khodabandeh](https://mohmahkho.github.io/), <b>Ninad Rajgopal</b>, [Bahar Salamatian](https://scholar.google.co.uk/citations?user=euRtDasAAAAJ&hl=en), [Igor Shinkar](https://www.cs.sfu.ca/~ishinkar/index.html)"
+        authors: "Tom Gur, Mohammad Mahdi Jahanara, Mohammad Mahdi Khodabandeh, <b>Ninad Rajgopal</b>, Bahar Salamatian, Igor Shinkar"
         conference: "STOC 2024"
         allLinks: 
           -  name: "ArXiv"
@@ -239,7 +239,7 @@ publications:
       
       - title: "Optimal Testing and Containment Strategies for Universities in Mexico amid COVID-19."
         #link: 
-        authors: "with [Luis Benavides-Vázquez](https://scholar.google.com/citations?user=Xg07tEIAAAAJ&hl=en&oi=sra), [Hector Alonso Guzmán-Gutiérrez](https://scholar.google.com/citations?hl=en&user=GhekzbYAAAAJ), [Jakob Jonnerby](https://scholar.google.com/citations?user=Xg07tEIAAAAJ&hl=en&oi=sra), [Philip Lazos](https://scholar.google.at/citations?user=3XJbROkAAAAJ&hl=en), [Edwin Lock](https://www.edwinlock.com/), [Francisco J.Marmolejo-Cossío](https://www.fmarmolejo.com/), <b>Ninad Rajgopal</b>, and [Roberto Tello-Ayala](https://robtelloayala.github.io/)"
+        authors: "with Luis Benavides-Vázquez, Hector Alonso Guzmán-Gutiérrez, Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco J.Marmolejo-Cossío, <b>Ninad Rajgopal</b>, and Roberto Tello-Ayala"
         conference: "EAAMO 2021"
         allLinks:
           -  name: "ArXiv"
@@ -249,7 +249,7 @@ publications:
              
       - title: "On the Structure of Learnability Beyond P/Poly."
         #link: 
-        authors: "<b>Ninad Rajgopal</b> and [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/)"
+        authors: "<b>Ninad Rajgopal</b> and Rahul Santhanam"
         conference: "APPROX/RANDOM 2021. <br /> Under Submission to a Journal."
         allLinks:
           -  name: "ECCC"
@@ -259,7 +259,7 @@ publications:
 
       - title: "Optimally Deceiving a Learning Leader in Stackelberg Games."
         #link: 
-        authors: "[Georgios Birmpas](https://sites.google.com/site/gebirbas/), [Jiarui Gan](https://jgan.xyz/), [Alexandros Hollender](https://www.asc.ox.ac.uk/person/dr-alexandros-hollender-0), [Francisco J.Marmolejo-Cossío](https://www.fmarmolejo.com/), <b>Ninad Rajgopal</b>, and [Alexandros A. Voudouris](https://www.alexvoudouris.com/)"
+        authors: "Georgios Birmpas, Jiarui Gan, Alexandros Hollender, Francisco J. Marmolejo-Cossio, <b>Ninad Rajgopal</b>, and Alexandros A. Voudouris"
         conference: "Journal of Artificial Intelligence Research (JAIR) 2021. <br /> Neurips 2020."
         allLinks:
           -  name: "ArXiv"
@@ -267,7 +267,7 @@ publications:
 
       - title: "Beyond Natural Proofs: Hardness Magnification and Locality."
         #link: 
-        authors: "[Lijie Chen](https://chen-lijie.github.io/), [Shuichi Hirahara](https://researchmap.jp/shuichi.hirahara/?lang=english), [Igor Carboni Oliveira](https://www.dcs.warwick.ac.uk/~igorcarb/), [Ján Pich](https://users.ox.ac.uk/~coml0742/), <b>Ninad Rajgopal</b>, and [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/)"
+        authors: "Lijie Chen, Shuichi Hirahara, Igor Carboni Oliveira, Ján Pich, <b>Ninad Rajgopal</b>, and Rahul Santhanam"
         conference: "Journal of the ACM (J.ACM) 2022. <br /> ITCS 2020."
         allLinks:
           -  name: "ECCC"
@@ -281,7 +281,7 @@ publications:
 
       - title: "Deterministically Counting Satisfying Assignments for Constant-Depth Circuits with Parity Gates, with Implications for Lower Bounds."
         #link: 
-        authors: "<b>Ninad Rajgopal</b>, [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/), and [Srikanth Srinivasan](https://cs.au.dk/~srikanth/)"
+        authors: "<b>Ninad Rajgopal</b>, Rahul Santhanam, and Srikanth Srinivasan"
         conference: "MFCS 2018."
         allLinks:
           -  name: "Paper"
@@ -289,7 +289,7 @@ publications:
 
       - title: "Improved Learning of k-Parities."
         #link: 
-        authors: "[Arnab Bhattacharyya](https://www.comp.nus.edu.sg/~arnab/), [Ameet Gadekar](https://amitgadekar.in/), and <b>Ninad Rajgopal</b>"
+        authors: "Arnab Bhattacharyya, Ameet Gadekar, and <b>Ninad Rajgopal</b>"
         conference: "Theoretical Computer Science (special edition), 2020. <br /> COCOON 2018."
         allLinks:
           -  name: "ArXiv"
@@ -297,7 +297,7 @@ publications:
 
       - title: "Selection lemmas for various geometric objects."
         #link: 
-        authors: "[Pradeesha Ashok](https://www.iiitb.ac.in/faculty/pradeesha-ashok), [Sathish Govindarajan](https://www.csa.iisc.ac.in/~gsat/), and <b>Ninad Rajgopal</b>"
+        authors: "Pradeesha Ashok, Sathish Govindarajan, and <b>Ninad Rajgopal</b>"
         conference: "International Journal of Computational Geometry & Applications, 2016."
         allLinks:
           -  name: "ArXiv"
@@ -305,7 +305,7 @@ publications:
 
       - title: "Hitting and Piercing Rectangles Induced by a Point Set."
         #link: 
-        authors: "<b>Ninad Rajgopal</b>, [Pradeesha Ashok](https://www.iiitb.ac.in/faculty/pradeesha-ashok), [Sathish Govindarajan](https://www.csa.iisc.ac.in/~gsat/), [Abhijit Khopkar](https://dblp.org/pid/85/10360.html), and [Neeldhara Misra](http://people.iitgn.ac.in/~neeldhara/)"
+        authors: "<b>Ninad Rajgopal</b>, Pradeesha Ashok, Sathish Govindarajan, Abhijit Khopkar, and Neeldhara Misra"
         conference: "COCOON 2013."
         allLinks:
           -  name: "Paper"
