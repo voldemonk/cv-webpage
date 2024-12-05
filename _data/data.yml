@@ -250,7 +250,7 @@ publications:
       - title: "On the Structure of Learnability Beyond P/Poly."
         #link: 
         authors: "<b>Ninad Rajgopal</b> and Rahul Santhanam"
-        conference: "APPROX/RANDOM 2021. <br /> Under Submission to a Journal."
+        conference: "Computational Complexity 2024. <br /> APPROX/RANDOM 2021."
         allLinks:
           -  name: "ECCC"
              url: "https://eccc.weizmann.ac.il/report/2021/173/"
